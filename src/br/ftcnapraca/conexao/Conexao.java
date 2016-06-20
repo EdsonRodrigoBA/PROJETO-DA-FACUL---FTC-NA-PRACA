@@ -10,9 +10,9 @@ public class Conexao {
 		// TODO Auto-generated method stub
 		try {
 			//Usei o Class.forname para que possamos manipular os dados do banco via java web
-			//ou seja estou forçando....
+			//ou seja estou forÃ§ando....
 			Class.forName("com.mysql.jdbc.Driver");
-			return DriverManager.getConnection("jdbc:mysql://localhost:3306/ftc", "root", "tel24M20");
+			return DriverManager.getConnection("jdbc:mysql://localhost:3306/ftc", "root", "1111");
 		} catch (SQLException | ClassNotFoundException e) {
 			e.printStackTrace();
 			throw new RuntimeException();
