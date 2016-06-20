@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+.erroDiv 
+{
+	border: 2px solid;
+	border-color: #ff0000;
+	min-height: 30px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+    padding-top: 4px;
+  }
