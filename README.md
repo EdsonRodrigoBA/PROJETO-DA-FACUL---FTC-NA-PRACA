@@ -9,6 +9,7 @@ O projeto visa melhorar / automatizar o atendimento que os alunos dos curso da a
 O trabalho era para ser feito em grupo mais como meus colegas que participaram do meu grupo não tinha afinidade com programação, e eu no grupo era o unico que ja conhecia programação web , desenvolve o sistema só, a falta de conhecimento dos componentes da minha equipe foi um fator principal para que eu nao conseguir atinge / concluir a meta do projeto, pois tinha que estuda as outras materias e prazo para entrega estava curto.  
 
 # O sistema faz cadastro, alteração, exclusão , listagem de cursos e de pacientes .
+# O sistema faz validações verificando se o usuario passado no login é valido, se todos os campos para serem cadastrados estão corretamente preenchdos etc..
 
 ## Tecnologias ultiizada no projeto:  
 # Java:
